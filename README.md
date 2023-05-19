@@ -47,7 +47,7 @@ I'm a Coder by passion with more than 5 years of programming experience and curr
 <a href="https://www.github.com/parag477" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=12599&format=png" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/parag_codes" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/parag-agrawal-101892202/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" width="32" height="32" /></a> 
-<a href="https://paragagrawal.hashnode.dev/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHa1dwH6JegPMofBvRqFTRLiaCGBkth0WIg&usqp=CAU)" width="32" height="32" /></a> 
+<a href="https://paragagrawal.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/parag_477" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=13963&format=png" width="32" height="32" /></a></p>
 
 ### Badges
