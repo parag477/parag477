@@ -130,8 +130,9 @@ if __name__ == '__main__':
 [![trophy](https://github-profile-trophy.vercel.app/?username=parag477&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=parag477&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Watch my contribution graph being eaten by a Snake! 🐍
 
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/parag477/parag477/main/snake.svg)
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/parag_codes/)
