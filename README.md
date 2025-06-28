@@ -4,7 +4,7 @@ Hi 👋 My name is Parag Agrawal
 Python Programmer | Full Stack Developer | Freelancer
 --------------------------------------------------
 
-I'm a Coder by passion with more than 5 years of programming experience and currently pursuing Bachelors degree with Computer Science. I personally prefer to work on python language. I have my hands on PHP, Django, NodeJS and ExpressJS. I also have my hands on databases like MySQL and MongoDB. I can also create good front-end using HTML, CSS, JS and web-dev frameworks like Bootstrap. I particularly adapt with different IDEs. Apart from web development I mastered Machine Learning and Deep Learning. I also practiced NLP, Computer Vision, Neural network .
+I'm a Coder by passion and currently pursuing Bachelors degree with Computer Science. I personally prefer to work on python language. I have my hands on PHP, Django, NodeJS and ExpressJS. I also have my hands on databases like MySQL and MongoDB. I can also create good front-end using HTML, CSS, JS and web-dev frameworks like Bootstrap. I particularly adapt with different IDEs. Apart from web development I mastered Machine Learning and Deep Learning. I also practiced NLP, Computer Vision, Neural network .
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [paragagrawal477@gmail.com](mailto:paragagrawal477@gmail.com)
