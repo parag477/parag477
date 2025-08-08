@@ -22,7 +22,7 @@ class Parag:
         self.web = 'https://paragagrawal.me'
         self.links = 'https://bio.link/parag477'
         self.blog = 'https://paragagrawal.hashnode.dev/'
-        self.cv = 'https://drive.google.com/file/d/1if54pmPBtRRTIRKE2jzWPiLqy6N9J6sQ/view?usp=sharing'
+        self.cv = 'https://drive.google.com/file/d/1jPJp-tUh_f3Y9RH0JaoQhevrIpkzXDdV/view?usp=sharing'
         self.twitter = '@Parag_477'
         self.code = {
             'backend': ['Python', 'Flask', 'Django', 'Matlab', 'FastAPI', 'NodeJS', 'PHP', 'GraphQL', 'Axios', 'Firebase', 'Appwrite', 'Solidity'],
